@@ -1,0 +1,85 @@
+name: maktabat_al_arrab
+description: "مكتبة العرّاب — تطبيق قراءة شخصي لمؤلفات د. أحمد خالد توفيق"
+publish_to: 'none'
+version: 2.5.0+6
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_riverpod: ^2.4.0
+
+  # Local storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # UI / utilities
+  flutter_svg: ^2.0.9
+  shimmer: ^3.0.0
+  path_provider: ^2.1.1
+
+  # Zip extraction for scanned (image-mode) books
+  archive: ^3.6.1
+  file_picker: ^13.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.7
+  hive_generator: ^2.0.1
+  flutter_launcher_icons: ^0.14.3
+
+# Launcher icon — generated from assets/icon/ by:
+#   dart run flutter_launcher_icons
+# The adaptive set is the one that actually shows on Android 8+; the plain
+# app_icon.png is the legacy fallback and the source for the store listing.
+flutter_launcher_icons:
+  android: true
+  ios: false
+  min_sdk_android: 21
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "assets/icon/adaptive_background.png"
+  adaptive_icon_foreground: "assets/icon/adaptive_foreground.png"
+  adaptive_icon_monochrome: "assets/icon/adaptive_monochrome.png"
+  # Do not change adaptive_icon_foreground_inset — the artwork is designed for
+  # the default of 16.
+
+flutter:
+  uses-material-design: true
+
+  # Arabic fonts — download these from Google Fonts and place in assets/fonts/
+  # Amiri: https://fonts.google.com/specimen/Amiri
+  # Reem Kufi: https://fonts.google.com/specimen/Reem+Kufi
+  # Cairo: https://fonts.google.com/specimen/Cairo
+  fonts:
+    - family: Amiri
+      fonts:
+        - asset: assets/fonts/Amiri-Regular.ttf
+        - asset: assets/fonts/Amiri-Bold.ttf
+          weight: 700
+    - family: ReemKufi
+      fonts:
+        - asset: assets/fonts/ReemKufi-Regular.ttf
+        - asset: assets/fonts/ReemKufi-Bold.ttf
+          weight: 700
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf
+          weight: 700
+
+  # Assets
+  assets:
+    - assets/library.json
+    - assets/covers/
+    - assets/books/
+    - assets/decorations/
+    - assets/book_jsons/
+    # Only the 1024 medallion ships in the APK — the adaptive layers are build
+    # inputs for the launcher icon, not runtime assets.
+    - assets/icon/app_icon.png

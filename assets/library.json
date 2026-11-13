@@ -1,0 +1,2981 @@
+{
+ "version": "3.0.0",
+ "app_name": "مكتبة العرّاب",
+ "author": "د. أحمد خالد توفيق",
+ "sections": [
+  {
+   "id": "ma_wara_al_tabia",
+   "title": "ما وراء الطبيعة",
+   "subtitle": "سلسلة الرعب والخيال العلمي",
+   "color_accent": "#8B1E2D",
+   "icon": "moon"
+  },
+  {
+   "id": "fantazia",
+   "title": "فانتازيا",
+   "subtitle": "سلسلة الخيال التاريخي",
+   "color_accent": "#4A7C59",
+   "icon": "castle"
+  },
+  {
+   "id": "safari",
+   "title": "سافاري",
+   "subtitle": "سلسلة الرحلات والمغامرات",
+   "color_accent": "#8B6914",
+   "icon": "compass"
+  },
+  {
+   "id": "standalone_novels",
+   "title": "روايات منفردة",
+   "subtitle": "روايات د. أحمد خالد توفيق",
+   "color_accent": "#6B3FA0",
+   "icon": "book"
+  },
+  {
+   "id": "translations",
+   "title": "ترجمات وكتب غير روائية",
+   "subtitle": "من أدب العالم",
+   "color_accent": "#2C5F7F",
+   "icon": "globe"
+  },
+  {
+   "id": "short_stories",
+   "title": "مقالات وقصص قصيرة",
+   "subtitle": "قصاصات ومقالات وضحكات",
+   "color_accent": "#2F6B5E",
+   "icon": "pen"
+  }
+ ],
+ "books": [
+  {
+   "id": "book_001",
+   "title": "آخر أيام الرايخ",
+   "series": "fantazia",
+   "page_count": 155,
+   "cover": "covers/book_001.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_001.json"
+  },
+  {
+   "id": "book_016",
+   "title": "أحلام",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_016.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.87,
+   "json_file": "book_jsons/book_016.json"
+  },
+  {
+   "id": "book_017",
+   "title": "أرشيف الغد",
+   "series": "fantazia",
+   "page_count": 168,
+   "cover": "covers/book_017.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.851,
+   "json_file": "book_jsons/book_017.json"
+  },
+  {
+   "id": "book_019",
+   "title": "أرض قمر أرض",
+   "series": "fantazia",
+   "page_count": 174,
+   "cover": "covers/book_019.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.848,
+   "json_file": "book_jsons/book_019.json"
+  },
+  {
+   "id": "book_098",
+   "title": "ألعاب إغريقية",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_098.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_098.json"
+  },
+  {
+   "id": "book_099",
+   "title": "ألعاب فارسية",
+   "series": "fantazia",
+   "page_count": 126,
+   "cover": "covers/book_099.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.854,
+   "json_file": "book_jsons/book_099.json"
+  },
+  {
+   "id": "book_105",
+   "title": "أيام مع هانيبال",
+   "series": "fantazia",
+   "page_count": 170,
+   "cover": "covers/book_105.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.841,
+   "json_file": "book_jsons/book_105.json"
+  },
+  {
+   "id": "book_106",
+   "title": "إعدام في البرج",
+   "series": "fantazia",
+   "page_count": 110,
+   "cover": "covers/book_106.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.823,
+   "json_file": "book_jsons/book_106.json"
+  },
+  {
+   "id": "book_108",
+   "title": "إمبراطورية النجوم",
+   "series": "fantazia",
+   "page_count": 127,
+   "cover": "covers/book_108.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.819,
+   "json_file": "book_jsons/book_108.json"
+  },
+  {
+   "id": "book_111",
+   "title": "اسمه أدهم",
+   "series": "fantazia",
+   "page_count": 157,
+   "cover": "covers/book_111.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.842,
+   "json_file": "book_jsons/book_111.json"
+  },
+  {
+   "id": "book_112",
+   "title": "اقتلوا بطوط",
+   "series": "fantazia",
+   "page_count": 125,
+   "cover": "covers/book_112.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_112.json"
+  },
+  {
+   "id": "book_120",
+   "title": "الاسم شكسبير",
+   "series": "fantazia",
+   "page_count": 151,
+   "cover": "covers/book_120.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_120.json"
+  },
+  {
+   "id": "book_122",
+   "title": "البطل ذو الألف وجه",
+   "series": "fantazia",
+   "page_count": 142,
+   "cover": "covers/book_122.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.879,
+   "json_file": "book_jsons/book_122.json"
+  },
+  {
+   "id": "book_127",
+   "title": "الحالم الأخير",
+   "series": "fantazia",
+   "page_count": 135,
+   "cover": "covers/book_127.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.745,
+   "json_file": "book_jsons/book_127.json"
+  },
+  {
+   "id": "book_131",
+   "title": "الخناقون",
+   "series": "fantazia",
+   "page_count": 145,
+   "cover": "covers/book_131.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_131.json"
+  },
+  {
+   "id": "book_136",
+   "title": "الساحر وأنا",
+   "series": "fantazia",
+   "page_count": 123,
+   "cover": "covers/book_136.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.857,
+   "json_file": "book_jsons/book_136.json"
+  },
+  {
+   "id": "book_141",
+   "title": "الصيادون",
+   "series": "fantazia",
+   "page_count": 118,
+   "cover": "covers/book_141.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.865,
+   "json_file": "book_jsons/book_141.json"
+  },
+  {
+   "id": "book_153",
+   "title": "اللغز",
+   "series": "fantazia",
+   "page_count": 113,
+   "cover": "covers/book_153.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.878,
+   "json_file": "book_jsons/book_153.json"
+  },
+  {
+   "id": "book_159",
+   "title": "الملل بعينه",
+   "series": "fantazia",
+   "page_count": 142,
+   "cover": "covers/book_159.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.88,
+   "json_file": "book_jsons/book_159.json"
+  },
+  {
+   "id": "book_164",
+   "title": "الوطواط",
+   "series": "fantazia",
+   "page_count": 154,
+   "cover": "covers/book_164.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.856,
+   "json_file": "book_jsons/book_164.json"
+  },
+  {
+   "id": "book_165",
+   "title": "ب 4 م",
+   "series": "fantazia",
+   "page_count": 134,
+   "cover": "covers/book_165.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.874,
+   "json_file": "book_jsons/book_165.json"
+  },
+  {
+   "id": "book_166",
+   "title": "بحاران",
+   "series": "fantazia",
+   "page_count": 119,
+   "cover": "covers/book_166.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.867,
+   "json_file": "book_jsons/book_166.json"
+  },
+  {
+   "id": "book_167",
+   "title": "بين عالمين",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_167.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.841,
+   "json_file": "book_jsons/book_167.json"
+  },
+  {
+   "id": "book_172",
+   "title": "تشي",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_172.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.724,
+   "json_file": "book_jsons/book_172.json"
+  },
+  {
+   "id": "book_175",
+   "title": "توم ومن معه",
+   "series": "fantazia",
+   "page_count": 121,
+   "cover": "covers/book_175.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.834,
+   "json_file": "book_jsons/book_175.json"
+  },
+  {
+   "id": "book_178",
+   "title": "حب في أغسطس",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_178.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.864,
+   "json_file": "book_jsons/book_178.json"
+  },
+  {
+   "id": "book_185",
+   "title": "حكايات من والاشيا",
+   "series": "fantazia",
+   "page_count": 121,
+   "cover": "covers/book_185.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.825,
+   "json_file": "book_jsons/book_185.json"
+  },
+  {
+   "id": "book_190",
+   "title": "خمسة منهم",
+   "series": "fantazia",
+   "page_count": 142,
+   "cover": "covers/book_190.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_190.json"
+  },
+  {
+   "id": "book_192",
+   "title": "خيول ورماح",
+   "series": "fantazia",
+   "page_count": 111,
+   "cover": "covers/book_192.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_192.json"
+  },
+  {
+   "id": "book_199",
+   "title": "ذات مرة في الغرب",
+   "series": "fantazia",
+   "page_count": 124,
+   "cover": "covers/book_199.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_199.json"
+  },
+  {
+   "id": "book_202",
+   "title": "رجل من كريبتون",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_202.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_202.json"
+  },
+  {
+   "id": "book_213",
+   "title": "شبح وشيطان",
+   "series": "fantazia",
+   "page_count": 125,
+   "cover": "covers/book_213.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.841,
+   "json_file": "book_jsons/book_213.json"
+  },
+  {
+   "id": "book_214",
+   "title": "شيء من حتى",
+   "series": "fantazia",
+   "page_count": 124,
+   "cover": "covers/book_214.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.861,
+   "json_file": "book_jsons/book_214.json"
+  },
+  {
+   "id": "book_216",
+   "title": "صديقي جلجاميش",
+   "series": "fantazia",
+   "page_count": 126,
+   "cover": "covers/book_216.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_216.json"
+  },
+  {
+   "id": "book_217",
+   "title": "صفر صفر سبعة",
+   "series": "fantazia",
+   "page_count": 127,
+   "cover": "covers/book_217.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.815,
+   "json_file": "book_jsons/book_217.json"
+  },
+  {
+   "id": "book_220",
+   "title": "عبقري",
+   "series": "fantazia",
+   "page_count": 156,
+   "cover": "covers/book_220.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.817,
+   "json_file": "book_jsons/book_220.json"
+  },
+  {
+   "id": "book_221",
+   "title": "عبقري آخر",
+   "series": "fantazia",
+   "page_count": 104,
+   "cover": "covers/book_221.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.863,
+   "json_file": "book_jsons/book_221.json"
+  },
+  {
+   "id": "book_227",
+   "title": "عودة المحارب",
+   "series": "fantazia",
+   "page_count": 149,
+   "cover": "covers/book_227.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.843,
+   "json_file": "book_jsons/book_227.json"
+  },
+  {
+   "id": "book_229",
+   "title": "عينان",
+   "series": "fantazia",
+   "page_count": 137,
+   "cover": "covers/book_229.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.859,
+   "json_file": "book_jsons/book_229.json"
+  },
+  {
+   "id": "book_232",
+   "title": "فلاسفة في حسائي",
+   "series": "fantazia",
+   "page_count": 130,
+   "cover": "covers/book_232.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.852,
+   "json_file": "book_jsons/book_232.json"
+  },
+  {
+   "id": "book_233",
+   "title": "فلننقذ الدوتشي",
+   "series": "fantazia",
+   "page_count": 124,
+   "cover": "covers/book_233.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.871,
+   "json_file": "book_jsons/book_233.json"
+  },
+  {
+   "id": "book_234",
+   "title": "فليدخل التنين",
+   "series": "fantazia",
+   "page_count": 156,
+   "cover": "covers/book_234.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_234.json"
+  },
+  {
+   "id": "book_236",
+   "title": "في جحيم الألعاب",
+   "series": "fantazia",
+   "page_count": 140,
+   "cover": "covers/book_236.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.878,
+   "json_file": "book_jsons/book_236.json"
+  },
+  {
+   "id": "book_238",
+   "title": "في مملكة الأخوين",
+   "series": "fantazia",
+   "page_count": 156,
+   "cover": "covers/book_238.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_238.json"
+  },
+  {
+   "id": "book_244",
+   "title": "قصة كل ليلة",
+   "series": "fantazia",
+   "page_count": 140,
+   "cover": "covers/book_244.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.871,
+   "json_file": "book_jsons/book_244.json"
+  },
+  {
+   "id": "book_245",
+   "title": "قصة لا تنتهي",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_245.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.843,
+   "json_file": "book_jsons/book_245.json"
+  },
+  {
+   "id": "book_252",
+   "title": "قلعة السفاحين",
+   "series": "fantazia",
+   "page_count": 142,
+   "cover": "covers/book_252.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.826,
+   "json_file": "book_jsons/book_252.json"
+  },
+  {
+   "id": "book_258",
+   "title": "لا تدخلوا شيروود",
+   "series": "fantazia",
+   "page_count": 143,
+   "cover": "covers/book_258.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_258.json"
+  },
+  {
+   "id": "book_263",
+   "title": "ليال عربية",
+   "series": "fantazia",
+   "page_count": 140,
+   "cover": "covers/book_263.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.871,
+   "json_file": "book_jsons/book_263.json"
+  },
+  {
+   "id": "book_264",
+   "title": "ما أمام الطبيعة",
+   "series": "fantazia",
+   "page_count": 137,
+   "cover": "covers/book_264.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.864,
+   "json_file": "book_jsons/book_264.json"
+  },
+  {
+   "id": "book_274",
+   "title": "مملكة الموتى",
+   "series": "fantazia",
+   "page_count": 124,
+   "cover": "covers/book_274.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.816,
+   "json_file": "book_jsons/book_274.json"
+  },
+  {
+   "id": "book_275",
+   "title": "من أجل طروادة",
+   "series": "fantazia",
+   "page_count": 139,
+   "cover": "covers/book_275.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.848,
+   "json_file": "book_jsons/book_275.json"
+  },
+  {
+   "id": "book_276",
+   "title": "من بعد سوبرمان",
+   "series": "fantazia",
+   "page_count": 122,
+   "cover": "covers/book_276.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.837,
+   "json_file": "book_jsons/book_276.json"
+  },
+  {
+   "id": "book_277",
+   "title": "من فعلها",
+   "series": "fantazia",
+   "page_count": 157,
+   "cover": "covers/book_277.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.851,
+   "json_file": "book_jsons/book_277.json"
+  },
+  {
+   "id": "book_278",
+   "title": "من قتل الإمبراطور",
+   "series": "fantazia",
+   "page_count": 174,
+   "cover": "covers/book_278.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.883,
+   "json_file": "book_jsons/book_278.json"
+  },
+  {
+   "id": "book_280",
+   "title": "نداء الأدغال",
+   "series": "fantazia",
+   "page_count": 143,
+   "cover": "covers/book_280.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.843,
+   "json_file": "book_jsons/book_280.json"
+  },
+  {
+   "id": "book_284",
+   "title": "هي والأنا",
+   "series": "fantazia",
+   "page_count": 114,
+   "cover": "covers/book_284.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.853,
+   "json_file": "book_jsons/book_284.json"
+  },
+  {
+   "id": "book_287",
+   "title": "وحدي مع لافكرافت",
+   "series": "fantazia",
+   "page_count": 174,
+   "cover": "covers/book_287.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.885,
+   "json_file": "book_jsons/book_287.json"
+  },
+  {
+   "id": "book_290",
+   "title": "وعد جوناثان",
+   "series": "fantazia",
+   "page_count": 143,
+   "cover": "covers/book_290.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.878,
+   "json_file": "book_jsons/book_290.json"
+  },
+  {
+   "id": "book_020",
+   "title": "أسطورة 099",
+   "series": "ma_wara_al_tabia",
+   "page_count": 138,
+   "cover": "covers/book_020.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.818,
+   "json_file": "book_jsons/book_020.json"
+  },
+  {
+   "id": "book_021",
+   "title": "أسطورة آخر الليل",
+   "series": "ma_wara_al_tabia",
+   "page_count": 125,
+   "cover": "covers/book_021.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.821,
+   "json_file": "book_jsons/book_021.json"
+  },
+  {
+   "id": "book_022",
+   "title": "أسطورة آكل البشر",
+   "series": "ma_wara_al_tabia",
+   "page_count": 115,
+   "cover": "covers/book_022.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.812,
+   "json_file": "book_jsons/book_022.json"
+  },
+  {
+   "id": "book_002",
+   "title": "أسطورة أرض أخرى",
+   "series": "ma_wara_al_tabia",
+   "page_count": 129,
+   "cover": "covers/book_002.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.816,
+   "json_file": "book_jsons/book_002.json"
+  },
+  {
+   "id": "book_023",
+   "title": "أسطورة أرض الظلام",
+   "series": "ma_wara_al_tabia",
+   "page_count": 241,
+   "cover": "covers/book_023.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.86,
+   "json_file": "book_jsons/book_023.json"
+  },
+  {
+   "id": "book_024",
+   "title": "أسطورة أرض العظايا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 135,
+   "cover": "covers/book_024.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.852,
+   "json_file": "book_jsons/book_024.json"
+  },
+  {
+   "id": "book_025",
+   "title": "أسطورة أرض المغول",
+   "series": "ma_wara_al_tabia",
+   "page_count": 141,
+   "cover": "covers/book_025.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.832,
+   "json_file": "book_jsons/book_025.json"
+  },
+  {
+   "id": "book_026",
+   "title": "أسطورة أغنية الموت",
+   "series": "ma_wara_al_tabia",
+   "page_count": 221,
+   "cover": "covers/book_026.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.876,
+   "json_file": "book_jsons/book_026.json"
+  },
+  {
+   "id": "book_027",
+   "title": "أسطورة إيجور",
+   "series": "ma_wara_al_tabia",
+   "page_count": 110,
+   "cover": "covers/book_027.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.802,
+   "json_file": "book_jsons/book_027.json"
+  },
+  {
+   "id": "book_028",
+   "title": "أسطورة الأساطير - الجزء الاول",
+   "series": "ma_wara_al_tabia",
+   "page_count": 173,
+   "cover": "covers/book_028.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.865,
+   "json_file": "book_jsons/book_028.json"
+  },
+  {
+   "id": "book_029",
+   "title": "أسطورة الأساطير - الجزء الثاني",
+   "series": "ma_wara_al_tabia",
+   "page_count": 188,
+   "cover": "covers/book_029.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_029.json"
+  },
+  {
+   "id": "book_030",
+   "title": "أسطورة البيت",
+   "series": "ma_wara_al_tabia",
+   "page_count": 126,
+   "cover": "covers/book_030.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.731,
+   "json_file": "book_jsons/book_030.json"
+  },
+  {
+   "id": "book_031",
+   "title": "أسطورة الجاثوم",
+   "series": "ma_wara_al_tabia",
+   "page_count": 137,
+   "cover": "covers/book_031.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.818,
+   "json_file": "book_jsons/book_031.json"
+  },
+  {
+   "id": "book_032",
+   "title": "أسطورة الجنرال العائد",
+   "series": "ma_wara_al_tabia",
+   "page_count": 123,
+   "cover": "covers/book_032.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.798,
+   "json_file": "book_jsons/book_032.json"
+  },
+  {
+   "id": "book_033",
+   "title": "أسطورة الدمية",
+   "series": "ma_wara_al_tabia",
+   "page_count": 138,
+   "cover": "covers/book_033.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_033.json"
+  },
+  {
+   "id": "book_034",
+   "title": "أسطورة الرجال الذين لم يعودوا كذلك",
+   "series": "ma_wara_al_tabia",
+   "page_count": 290,
+   "cover": "covers/book_034.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.809,
+   "json_file": "book_jsons/book_034.json"
+  },
+  {
+   "id": "book_035",
+   "title": "أسطورة الرقم المشئوم",
+   "series": "ma_wara_al_tabia",
+   "page_count": 141,
+   "cover": "covers/book_035.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.841,
+   "json_file": "book_jsons/book_035.json"
+  },
+  {
+   "id": "book_036",
+   "title": "أسطورة الشاحبين",
+   "series": "ma_wara_al_tabia",
+   "page_count": 121,
+   "cover": "covers/book_036.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.821,
+   "json_file": "book_jsons/book_036.json"
+  },
+  {
+   "id": "book_037",
+   "title": "أسطورة الشيء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 113,
+   "cover": "covers/book_037.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.799,
+   "json_file": "book_jsons/book_037.json"
+  },
+  {
+   "id": "book_038",
+   "title": "أسطورة الطفيل",
+   "series": "ma_wara_al_tabia",
+   "page_count": 221,
+   "cover": "covers/book_038.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.864,
+   "json_file": "book_jsons/book_038.json"
+  },
+  {
+   "id": "book_039",
+   "title": "أسطورة الطوطم",
+   "series": "ma_wara_al_tabia",
+   "page_count": 227,
+   "cover": "covers/book_039.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_039.json"
+  },
+  {
+   "id": "book_040",
+   "title": "أسطورة الظلال",
+   "series": "ma_wara_al_tabia",
+   "page_count": 212,
+   "cover": "covers/book_040.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.791,
+   "json_file": "book_jsons/book_040.json"
+  },
+  {
+   "id": "book_041",
+   "title": "أسطورة العراف",
+   "series": "ma_wara_al_tabia",
+   "page_count": 146,
+   "cover": "covers/book_041.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_041.json"
+  },
+  {
+   "id": "book_042",
+   "title": "أسطورة العشيرة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 146,
+   "cover": "covers/book_042.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.824,
+   "json_file": "book_jsons/book_042.json"
+  },
+  {
+   "id": "book_043",
+   "title": "أسطورة العلامات الدامية",
+   "series": "ma_wara_al_tabia",
+   "page_count": 269,
+   "cover": "covers/book_043.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.853,
+   "json_file": "book_jsons/book_043.json"
+  },
+  {
+   "id": "book_044",
+   "title": "أسطورة الغرباء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 115,
+   "cover": "covers/book_044.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_044.json"
+  },
+  {
+   "id": "book_045",
+   "title": "أسطورة الفتاة الزرقاء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 217,
+   "cover": "covers/book_045.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.855,
+   "json_file": "book_jsons/book_045.json"
+  },
+  {
+   "id": "book_046",
+   "title": "أسطورة الفصيلة السادسة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 125,
+   "cover": "covers/book_046.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.73,
+   "json_file": "book_jsons/book_046.json"
+  },
+  {
+   "id": "book_047",
+   "title": "أسطورة الكاهن الأخير",
+   "series": "ma_wara_al_tabia",
+   "page_count": 129,
+   "cover": "covers/book_047.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.821,
+   "json_file": "book_jsons/book_047.json"
+  },
+  {
+   "id": "book_048",
+   "title": "أسطورة الكلمات السبع",
+   "series": "ma_wara_al_tabia",
+   "page_count": 153,
+   "cover": "covers/book_048.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.84,
+   "json_file": "book_jsons/book_048.json"
+  },
+  {
+   "id": "book_049",
+   "title": "أسطورة اللهب الأزرق",
+   "series": "ma_wara_al_tabia",
+   "page_count": 108,
+   "cover": "covers/book_049.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.81,
+   "json_file": "book_jsons/book_049.json"
+  },
+  {
+   "id": "book_050",
+   "title": "أسطورة المحركين",
+   "series": "ma_wara_al_tabia",
+   "page_count": 124,
+   "cover": "covers/book_050.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.844,
+   "json_file": "book_jsons/book_050.json"
+  },
+  {
+   "id": "book_051",
+   "title": "أسطورة المرأة الأفعى",
+   "series": "ma_wara_al_tabia",
+   "page_count": 50,
+   "cover": "covers/book_051.webp",
+   "content_mode": "image",
+   "quality_score": 0.126,
+   "json_file": "book_jsons/book_051.json"
+  },
+  {
+   "id": "book_052",
+   "title": "أسطورة المقبرة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 170,
+   "cover": "covers/book_052.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.834,
+   "json_file": "book_jsons/book_052.json"
+  },
+  {
+   "id": "book_053",
+   "title": "أسطورة المنزل رقم 5",
+   "series": "ma_wara_al_tabia",
+   "page_count": 141,
+   "cover": "covers/book_053.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_053.json"
+  },
+  {
+   "id": "book_054",
+   "title": "أسطورة المواجهة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 123,
+   "cover": "covers/book_054.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.811,
+   "json_file": "book_jsons/book_054.json"
+  },
+  {
+   "id": "book_055",
+   "title": "أسطورة الموتى الأحياء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 129,
+   "cover": "covers/book_055.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.747,
+   "json_file": "book_jsons/book_055.json"
+  },
+  {
+   "id": "book_056",
+   "title": "أسطورة المومياء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 153,
+   "cover": "covers/book_056.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.824,
+   "json_file": "book_jsons/book_056.json"
+  },
+  {
+   "id": "book_057",
+   "title": "أسطورة المينوتور",
+   "series": "ma_wara_al_tabia",
+   "page_count": 137,
+   "cover": "covers/book_057.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.82,
+   "json_file": "book_jsons/book_057.json"
+  },
+  {
+   "id": "book_058",
+   "title": "أسطورة النافاراي",
+   "series": "ma_wara_al_tabia",
+   "page_count": 135,
+   "cover": "covers/book_058.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.806,
+   "json_file": "book_jsons/book_058.json"
+  },
+  {
+   "id": "book_059",
+   "title": "أسطورة النبات",
+   "series": "ma_wara_al_tabia",
+   "page_count": 123,
+   "cover": "covers/book_059.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.819,
+   "json_file": "book_jsons/book_059.json"
+  },
+  {
+   "id": "book_060",
+   "title": "أسطورة النبوءة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 153,
+   "cover": "covers/book_060.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_060.json"
+  },
+  {
+   "id": "book_061",
+   "title": "أسطورة النداهة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 125,
+   "cover": "covers/book_061.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.799,
+   "json_file": "book_jsons/book_061.json"
+  },
+  {
+   "id": "book_062",
+   "title": "أسطورة النصف الآخر",
+   "series": "ma_wara_al_tabia",
+   "page_count": 120,
+   "cover": "covers/book_062.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.819,
+   "json_file": "book_jsons/book_062.json"
+  },
+  {
+   "id": "book_063",
+   "title": "أسطورة بعد منتصف الليل",
+   "series": "ma_wara_al_tabia",
+   "page_count": 236,
+   "cover": "covers/book_063.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.816,
+   "json_file": "book_jsons/book_063.json"
+  },
+  {
+   "id": "book_064",
+   "title": "أسطورة بو",
+   "series": "ma_wara_al_tabia",
+   "page_count": 114,
+   "cover": "covers/book_064.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.804,
+   "json_file": "book_jsons/book_064.json"
+  },
+  {
+   "id": "book_065",
+   "title": "أسطورة بيت الأشباح",
+   "series": "ma_wara_al_tabia",
+   "page_count": 235,
+   "cover": "covers/book_065.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.844,
+   "json_file": "book_jsons/book_065.json"
+  },
+  {
+   "id": "book_066",
+   "title": "أسطورة بيت الأفاعي",
+   "series": "ma_wara_al_tabia",
+   "page_count": 170,
+   "cover": "covers/book_066.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.775,
+   "json_file": "book_jsons/book_066.json"
+  },
+  {
+   "id": "book_067",
+   "title": "أسطورة تختلف",
+   "series": "ma_wara_al_tabia",
+   "page_count": 125,
+   "cover": "covers/book_067.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.827,
+   "json_file": "book_jsons/book_067.json"
+  },
+  {
+   "id": "book_068",
+   "title": "أسطورة حارس الكهف",
+   "series": "ma_wara_al_tabia",
+   "page_count": 142,
+   "cover": "covers/book_068.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.802,
+   "json_file": "book_jsons/book_068.json"
+  },
+  {
+   "id": "book_069",
+   "title": "أسطورة حامل الضياء - الجزء الأول",
+   "series": "ma_wara_al_tabia",
+   "page_count": 205,
+   "cover": "covers/book_069.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.872,
+   "json_file": "book_jsons/book_069.json"
+  },
+  {
+   "id": "book_070",
+   "title": "أسطورة حامل الضياء - الجزء الثاني",
+   "series": "ma_wara_al_tabia",
+   "page_count": 189,
+   "cover": "covers/book_070.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.879,
+   "json_file": "book_jsons/book_070.json"
+  },
+  {
+   "id": "book_071",
+   "title": "أسطورة حسناء المقبرة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 122,
+   "cover": "covers/book_071.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.823,
+   "json_file": "book_jsons/book_071.json"
+  },
+  {
+   "id": "book_072",
+   "title": "أسطورة دماء دراكيولا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 135,
+   "cover": "covers/book_072.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.805,
+   "json_file": "book_jsons/book_072.json"
+  },
+  {
+   "id": "book_073",
+   "title": "أسطورة رأس ميدوسا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 131,
+   "cover": "covers/book_073.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.809,
+   "json_file": "book_jsons/book_073.json"
+  },
+  {
+   "id": "book_074",
+   "title": "أسطورة رجل الثلوج",
+   "series": "ma_wara_al_tabia",
+   "page_count": 111,
+   "cover": "covers/book_074.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_074.json"
+  },
+  {
+   "id": "book_075",
+   "title": "أسطورة رجل بكين",
+   "series": "ma_wara_al_tabia",
+   "page_count": 182,
+   "cover": "covers/book_075.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.842,
+   "json_file": "book_jsons/book_075.json"
+  },
+  {
+   "id": "book_076",
+   "title": "أسطورة رعب المستنقعات",
+   "series": "ma_wara_al_tabia",
+   "page_count": 108,
+   "cover": "covers/book_076.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.775,
+   "json_file": "book_jsons/book_076.json"
+  },
+  {
+   "id": "book_077",
+   "title": "أسطورة رفعت",
+   "series": "ma_wara_al_tabia",
+   "page_count": 139,
+   "cover": "covers/book_077.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_077.json"
+  },
+  {
+   "id": "book_078",
+   "title": "أسطورة رونيل السوداء",
+   "series": "ma_wara_al_tabia",
+   "page_count": 126,
+   "cover": "covers/book_078.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.853,
+   "json_file": "book_jsons/book_078.json"
+  },
+  {
+   "id": "book_079",
+   "title": "أسطورة سليبي هولو",
+   "series": "ma_wara_al_tabia",
+   "page_count": 124,
+   "cover": "covers/book_079.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.856,
+   "json_file": "book_jsons/book_079.json"
+  },
+  {
+   "id": "book_080",
+   "title": "أسطورة شبه مخيفة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 217,
+   "cover": "covers/book_080.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.864,
+   "json_file": "book_jsons/book_080.json"
+  },
+  {
+   "id": "book_081",
+   "title": "أسطورة صندوق بندورا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 127,
+   "cover": "covers/book_081.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.807,
+   "json_file": "book_jsons/book_081.json"
+  },
+  {
+   "id": "book_082",
+   "title": "أسطورة طفل آخر",
+   "series": "ma_wara_al_tabia",
+   "page_count": 153,
+   "cover": "covers/book_082.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.814,
+   "json_file": "book_jsons/book_082.json"
+  },
+  {
+   "id": "book_083",
+   "title": "أسطورة عدو الشمس",
+   "series": "ma_wara_al_tabia",
+   "page_count": 110,
+   "cover": "covers/book_083.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_083.json"
+  },
+  {
+   "id": "book_084",
+   "title": "أسطورة فرانكنشتاين",
+   "series": "ma_wara_al_tabia",
+   "page_count": 133,
+   "cover": "covers/book_084.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.769,
+   "json_file": "book_jsons/book_084.json"
+  },
+  {
+   "id": "book_085",
+   "title": "أسطورة لعنة الفرعون",
+   "series": "ma_wara_al_tabia",
+   "page_count": 131,
+   "cover": "covers/book_085.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.805,
+   "json_file": "book_jsons/book_085.json"
+  },
+  {
+   "id": "book_086",
+   "title": "أسطورة معرض الرعب",
+   "series": "ma_wara_al_tabia",
+   "page_count": 204,
+   "cover": "covers/book_086.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.875,
+   "json_file": "book_jsons/book_086.json"
+  },
+  {
+   "id": "book_087",
+   "title": "أسطورة ملك الذباب",
+   "series": "ma_wara_al_tabia",
+   "page_count": 156,
+   "cover": "covers/book_087.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.781,
+   "json_file": "book_jsons/book_087.json"
+  },
+  {
+   "id": "book_088",
+   "title": "أسطورة مملة",
+   "series": "ma_wara_al_tabia",
+   "page_count": 156,
+   "cover": "covers/book_088.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.835,
+   "json_file": "book_jsons/book_088.json"
+  },
+  {
+   "id": "book_089",
+   "title": "أسطورة ميسيا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 20,
+   "cover": "covers/book_089.webp",
+   "content_mode": "image",
+   "quality_score": 0.317,
+   "json_file": "book_jsons/book_089.json"
+  },
+  {
+   "id": "book_090",
+   "title": "أسطورة نادي الغيلان",
+   "series": "ma_wara_al_tabia",
+   "page_count": 239,
+   "cover": "covers/book_090.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.871,
+   "json_file": "book_jsons/book_090.json"
+  },
+  {
+   "id": "book_091",
+   "title": "أسطورة نهر",
+   "series": "ma_wara_al_tabia",
+   "page_count": 134,
+   "cover": "covers/book_091.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.862,
+   "json_file": "book_jsons/book_091.json"
+  },
+  {
+   "id": "book_092",
+   "title": "أسطورتنا",
+   "series": "ma_wara_al_tabia",
+   "page_count": 110,
+   "cover": "covers/book_092.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.792,
+   "json_file": "book_jsons/book_092.json"
+  },
+  {
+   "id": "book_093",
+   "title": "أسطورتها",
+   "series": "ma_wara_al_tabia",
+   "page_count": 141,
+   "cover": "covers/book_093.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.816,
+   "json_file": "book_jsons/book_093.json"
+  },
+  {
+   "id": "book_130",
+   "title": "الحلقات المنسية",
+   "series": "ma_wara_al_tabia",
+   "page_count": 231,
+   "cover": "covers/book_130.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.853,
+   "json_file": "book_jsons/book_130.json"
+  },
+  {
+   "id": "book_135",
+   "title": "الرجل الذي يجمع كتب بو",
+   "series": "ma_wara_al_tabia",
+   "page_count": 142,
+   "cover": "covers/book_135.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_135.json"
+  },
+  {
+   "id": "book_155",
+   "title": "المتحف الأسود",
+   "series": "ma_wara_al_tabia",
+   "page_count": 189,
+   "cover": "covers/book_155.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.845,
+   "json_file": "book_jsons/book_155.json"
+  },
+  {
+   "id": "book_181",
+   "title": "حكايات التاروت",
+   "series": "ma_wara_al_tabia",
+   "page_count": 186,
+   "cover": "covers/book_181.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.837,
+   "json_file": "book_jsons/book_181.json"
+  },
+  {
+   "id": "book_187",
+   "title": "حلقة الرعب",
+   "series": "ma_wara_al_tabia",
+   "page_count": 197,
+   "cover": "covers/book_187.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.798,
+   "json_file": "book_jsons/book_187.json"
+  },
+  {
+   "id": "book_235",
+   "title": "في جانب النجوم",
+   "series": "ma_wara_al_tabia",
+   "page_count": 201,
+   "cover": "covers/book_235.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.784,
+   "json_file": "book_jsons/book_235.json"
+  },
+  {
+   "id": "book_270",
+   "title": "مصاص الدماء وأسطورة الرجل الذئب",
+   "series": "ma_wara_al_tabia",
+   "page_count": 128,
+   "cover": "covers/book_270.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.807,
+   "json_file": "book_jsons/book_270.json"
+  },
+  {
+   "id": "book_288",
+   "title": "وراء الباب المغلق",
+   "series": "ma_wara_al_tabia",
+   "page_count": 217,
+   "cover": "covers/book_288.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.835,
+   "json_file": "book_jsons/book_288.json"
+  },
+  {
+   "id": "book_011",
+   "title": "H.I.V",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_011.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_011.json"
+  },
+  {
+   "id": "book_012",
+   "title": "NDE",
+   "series": "safari",
+   "page_count": 124,
+   "cover": "covers/book_012.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.742,
+   "json_file": "book_jsons/book_012.json"
+  },
+  {
+   "id": "book_000",
+   "title": "؟؟؟",
+   "series": "safari",
+   "page_count": 127,
+   "cover": "covers/book_000.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_000.json"
+  },
+  {
+   "id": "book_018",
+   "title": "أرض الجنون",
+   "series": "safari",
+   "page_count": 127,
+   "cover": "covers/book_018.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_018.json"
+  },
+  {
+   "id": "book_094",
+   "title": "أشياء تحدث ليلًا",
+   "series": "safari",
+   "page_count": 124,
+   "cover": "covers/book_094.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.825,
+   "json_file": "book_jsons/book_094.json"
+  },
+  {
+   "id": "book_104",
+   "title": "أيام الكونغو",
+   "series": "safari",
+   "page_count": 111,
+   "cover": "covers/book_104.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.842,
+   "json_file": "book_jsons/book_104.json"
+  },
+  {
+   "id": "book_107",
+   "title": "إلى الشمال",
+   "series": "safari",
+   "page_count": 126,
+   "cover": "covers/book_107.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.873,
+   "json_file": "book_jsons/book_107.json"
+  },
+  {
+   "id": "book_109",
+   "title": "إنهم يعودون أحياناً",
+   "series": "safari",
+   "page_count": 187,
+   "cover": "covers/book_109.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_109.json"
+  },
+  {
+   "id": "book_110",
+   "title": "إنهم يكذبون",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_110.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.874,
+   "json_file": "book_jsons/book_110.json"
+  },
+  {
+   "id": "book_114",
+   "title": "الآن تراه",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_114.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.818,
+   "json_file": "book_jsons/book_114.json"
+  },
+  {
+   "id": "book_115",
+   "title": "الآن نرجوكم الصمت",
+   "series": "safari",
+   "page_count": 155,
+   "cover": "covers/book_115.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.841,
+   "json_file": "book_jsons/book_115.json"
+  },
+  {
+   "id": "book_117",
+   "title": "الأخير",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_117.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.868,
+   "json_file": "book_jsons/book_117.json"
+  },
+  {
+   "id": "book_121",
+   "title": "الانفجار",
+   "series": "safari",
+   "page_count": 126,
+   "cover": "covers/book_121.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.804,
+   "json_file": "book_jsons/book_121.json"
+  },
+  {
+   "id": "book_125",
+   "title": "الجمجمة",
+   "series": "safari",
+   "page_count": 154,
+   "cover": "covers/book_125.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_125.json"
+  },
+  {
+   "id": "book_126",
+   "title": "الحادث",
+   "series": "safari",
+   "page_count": 121,
+   "cover": "covers/book_126.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_126.json"
+  },
+  {
+   "id": "book_128",
+   "title": "الحريق",
+   "series": "safari",
+   "page_count": 127,
+   "cover": "covers/book_128.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.822,
+   "json_file": "book_jsons/book_128.json"
+  },
+  {
+   "id": "book_134",
+   "title": "الرجل الذي لم يكن",
+   "series": "safari",
+   "page_count": 169,
+   "cover": "covers/book_134.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.849,
+   "json_file": "book_jsons/book_134.json"
+  },
+  {
+   "id": "book_138",
+   "title": "السعار",
+   "series": "safari",
+   "page_count": 158,
+   "cover": "covers/book_138.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.87,
+   "json_file": "book_jsons/book_138.json"
+  },
+  {
+   "id": "book_142",
+   "title": "الظاهرة",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_142.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.848,
+   "json_file": "book_jsons/book_142.json"
+  },
+  {
+   "id": "book_143",
+   "title": "العاشر",
+   "series": "safari",
+   "page_count": 158,
+   "cover": "covers/book_143.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_143.json"
+  },
+  {
+   "id": "book_150",
+   "title": "الفصيلة",
+   "series": "safari",
+   "page_count": 127,
+   "cover": "covers/book_150.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.819,
+   "json_file": "book_jsons/book_150.json"
+  },
+  {
+   "id": "book_152",
+   "title": "الكابوس",
+   "series": "safari",
+   "page_count": 124,
+   "cover": "covers/book_152.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.807,
+   "json_file": "book_jsons/book_152.json"
+  },
+  {
+   "id": "book_154",
+   "title": "الماساي",
+   "series": "safari",
+   "page_count": 139,
+   "cover": "covers/book_154.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.845,
+   "json_file": "book_jsons/book_154.json"
+  },
+  {
+   "id": "book_157",
+   "title": "المرض الأسود",
+   "series": "safari",
+   "page_count": 153,
+   "cover": "covers/book_157.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_157.json"
+  },
+  {
+   "id": "book_158",
+   "title": "المرض السابع",
+   "series": "safari",
+   "page_count": 140,
+   "cover": "covers/book_158.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.87,
+   "json_file": "book_jsons/book_158.json"
+  },
+  {
+   "id": "book_160",
+   "title": "الموت الأصفر",
+   "series": "safari",
+   "page_count": 91,
+   "cover": "covers/book_160.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.781,
+   "json_file": "book_jsons/book_160.json"
+  },
+  {
+   "id": "book_162",
+   "title": "الوباء",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_162.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_162.json"
+  },
+  {
+   "id": "book_163",
+   "title": "الوحدة 731",
+   "series": "safari",
+   "page_count": 158,
+   "cover": "covers/book_163.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.882,
+   "json_file": "book_jsons/book_163.json"
+  },
+  {
+   "id": "book_170",
+   "title": "تجربة محرمة",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_170.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.832,
+   "json_file": "book_jsons/book_170.json"
+  },
+  {
+   "id": "book_171",
+   "title": "تسي تسي",
+   "series": "safari",
+   "page_count": 140,
+   "cover": "covers/book_171.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.822,
+   "json_file": "book_jsons/book_171.json"
+  },
+  {
+   "id": "book_174",
+   "title": "توركانا",
+   "series": "safari",
+   "page_count": 122,
+   "cover": "covers/book_174.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_174.json"
+  },
+  {
+   "id": "book_184",
+   "title": "حكايات من الناتال",
+   "series": "safari",
+   "page_count": 110,
+   "cover": "covers/book_184.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.867,
+   "json_file": "book_jsons/book_184.json"
+  },
+  {
+   "id": "book_186",
+   "title": "حكاية ثقب",
+   "series": "safari",
+   "page_count": 123,
+   "cover": "covers/book_186.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.853,
+   "json_file": "book_jsons/book_186.json"
+  },
+  {
+   "id": "book_188",
+   "title": "خاطفو الأجساد",
+   "series": "safari",
+   "page_count": 124,
+   "cover": "covers/book_188.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_188.json"
+  },
+  {
+   "id": "book_193",
+   "title": "داء الأسد",
+   "series": "safari",
+   "page_count": 141,
+   "cover": "covers/book_193.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.878,
+   "json_file": "book_jsons/book_193.json"
+  },
+  {
+   "id": "book_196",
+   "title": "دواء يقتل",
+   "series": "safari",
+   "page_count": 156,
+   "cover": "covers/book_196.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_196.json"
+  },
+  {
+   "id": "book_200",
+   "title": "رجال من رجال",
+   "series": "safari",
+   "page_count": 126,
+   "cover": "covers/book_200.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.864,
+   "json_file": "book_jsons/book_200.json"
+  },
+  {
+   "id": "book_201",
+   "title": "رجل الرمال",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_201.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.87,
+   "json_file": "book_jsons/book_201.json"
+  },
+  {
+   "id": "book_204",
+   "title": "رقصة الموت",
+   "series": "safari",
+   "page_count": 139,
+   "cover": "covers/book_204.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.835,
+   "json_file": "book_jsons/book_204.json"
+  },
+  {
+   "id": "book_206",
+   "title": "زولو",
+   "series": "safari",
+   "page_count": 141,
+   "cover": "covers/book_206.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.875,
+   "json_file": "book_jsons/book_206.json"
+  },
+  {
+   "id": "book_211",
+   "title": "سيد الجينات",
+   "series": "safari",
+   "page_count": 126,
+   "cover": "covers/book_211.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_211.json"
+  },
+  {
+   "id": "book_219",
+   "title": "عام الأفاعي",
+   "series": "safari",
+   "page_count": 155,
+   "cover": "covers/book_219.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_219.json"
+  },
+  {
+   "id": "book_226",
+   "title": "عن الطيور نحكي",
+   "series": "safari",
+   "page_count": 110,
+   "cover": "covers/book_226.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.86,
+   "json_file": "book_jsons/book_226.json"
+  },
+  {
+   "id": "book_228",
+   "title": "عودة ساحرة الأفاعي",
+   "series": "safari",
+   "page_count": 127,
+   "cover": "covers/book_228.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.875,
+   "json_file": "book_jsons/book_228.json"
+  },
+  {
+   "id": "book_241",
+   "title": "قشعريرة",
+   "series": "safari",
+   "page_count": 156,
+   "cover": "covers/book_241.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.844,
+   "json_file": "book_jsons/book_241.json"
+  },
+  {
+   "id": "book_242",
+   "title": "قصاصات",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_242.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_242.json"
+  },
+  {
+   "id": "book_243",
+   "title": "قصة بوليسية",
+   "series": "safari",
+   "page_count": 122,
+   "cover": "covers/book_243.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_243.json"
+  },
+  {
+   "id": "book_256",
+   "title": "كليمنجارو",
+   "series": "safari",
+   "page_count": 173,
+   "cover": "covers/book_256.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_256.json"
+  },
+  {
+   "id": "book_261",
+   "title": "لماذا جنت الأبقار",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_261.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.877,
+   "json_file": "book_jsons/book_261.json"
+  },
+  {
+   "id": "book_283",
+   "title": "هواء فاسد",
+   "series": "safari",
+   "page_count": 125,
+   "cover": "covers/book_283.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.857,
+   "json_file": "book_jsons/book_283.json"
+  },
+  {
+   "id": "book_291",
+   "title": "يوم ثارت الوحوش",
+   "series": "safari",
+   "page_count": 138,
+   "cover": "covers/book_291.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.844,
+   "json_file": "book_jsons/book_291.json"
+  },
+  {
+   "id": "book_009",
+   "title": "7 باب",
+   "series": "standalone_novels",
+   "page_count": 152,
+   "cover": "covers/book_009.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.808,
+   "json_file": "book_jsons/book_009.json"
+  },
+  {
+   "id": "book_010",
+   "title": "7 وجوه للحب",
+   "series": "standalone_novels",
+   "page_count": 198,
+   "cover": "covers/book_010.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.762,
+   "json_file": "book_jsons/book_010.json"
+  },
+  {
+   "id": "book_097",
+   "title": "أكواريل",
+   "series": "standalone_novels",
+   "page_count": 351,
+   "cover": "covers/book_097.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_097.json"
+  },
+  {
+   "id": "book_113",
+   "title": "الآن أفهم",
+   "series": "standalone_novels",
+   "page_count": 241,
+   "cover": "covers/book_113.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.762,
+   "json_file": "book_jsons/book_113.json"
+  },
+  {
+   "id": "book_116",
+   "title": "الأبجدية",
+   "series": "standalone_novels",
+   "page_count": 205,
+   "cover": "covers/book_116.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.878,
+   "json_file": "book_jsons/book_116.json"
+  },
+  {
+   "id": "book_168",
+   "title": "تأثير الجرادة",
+   "series": "standalone_novels",
+   "page_count": 90,
+   "cover": "covers/book_168.webp",
+   "content_mode": "image",
+   "quality_score": 0.118,
+   "json_file": "book_jsons/book_168.json"
+  },
+  {
+   "id": "book_173",
+   "title": "تلك المدينة",
+   "series": "standalone_novels",
+   "page_count": 205,
+   "cover": "covers/book_173.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.86,
+   "json_file": "book_jsons/book_173.json"
+  },
+  {
+   "id": "book_179",
+   "title": "حظك اليوم",
+   "series": "standalone_novels",
+   "page_count": 92,
+   "cover": "covers/book_179.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.781,
+   "json_file": "book_jsons/book_179.json"
+  },
+  {
+   "id": "book_191",
+   "title": "خمنوا معي",
+   "series": "standalone_novels",
+   "page_count": 173,
+   "cover": "covers/book_191.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.852,
+   "json_file": "book_jsons/book_191.json"
+  },
+  {
+   "id": "book_195",
+   "title": "دماغي كده",
+   "series": "standalone_novels",
+   "page_count": 286,
+   "cover": "covers/book_195.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_195.json"
+  },
+  {
+   "id": "book_205",
+   "title": "زغازيغ",
+   "series": "standalone_novels",
+   "page_count": 183,
+   "cover": "covers/book_205.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.746,
+   "json_file": "book_jsons/book_205.json"
+  },
+  {
+   "id": "book_212",
+   "title": "شاي بالنعناع",
+   "series": "standalone_novels",
+   "page_count": 190,
+   "cover": "covers/book_212.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.695,
+   "json_file": "book_jsons/book_212.json"
+  },
+  {
+   "id": "book_218",
+   "title": "ضحكات كئيبة",
+   "series": "short_stories",
+   "page_count": 244,
+   "cover": "covers/book_218.webp",
+   "content_mode": "image",
+   "quality_score": 0.47,
+   "json_file": "book_jsons/book_218.json"
+  },
+  {
+   "id": "book_222",
+   "title": "عرض لا تستطيع رفضه",
+   "series": "standalone_novels",
+   "page_count": 142,
+   "cover": "covers/book_222.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.843,
+   "json_file": "book_jsons/book_222.json"
+  },
+  {
+   "id": "book_224",
+   "title": "عشاق الأدرينالين",
+   "series": "standalone_novels",
+   "page_count": 198,
+   "cover": "covers/book_224.webp",
+   "content_mode": "image",
+   "quality_score": 0.583,
+   "json_file": "book_jsons/book_224.json"
+  },
+  {
+   "id": "book_225",
+   "title": "عقل بلا جسد",
+   "series": "standalone_novels",
+   "page_count": 164,
+   "cover": "covers/book_225.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.784,
+   "json_file": "book_jsons/book_225.json"
+  },
+  {
+   "id": "book_230",
+   "title": "غرباء الأطوار",
+   "series": "standalone_novels",
+   "page_count": 146,
+   "cover": "covers/book_230.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_230.json"
+  },
+  {
+   "id": "book_003",
+   "title": "قصاصات قابلة للحرق",
+   "series": "short_stories",
+   "page_count": 17,
+   "cover": "covers/book_003.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.762,
+   "json_file": "book_jsons/book_003.json"
+  },
+  {
+   "id": "book_246",
+   "title": "قصتان",
+   "series": "short_stories",
+   "page_count": 238,
+   "cover": "covers/book_246.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_246.json"
+  },
+  {
+   "id": "book_247",
+   "title": "قصص من أزيموف",
+   "series": "standalone_novels",
+   "page_count": 174,
+   "cover": "covers/book_247.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.865,
+   "json_file": "book_jsons/book_247.json"
+  },
+  {
+   "id": "book_265",
+   "title": "ما وراء العالم",
+   "series": "standalone_novels",
+   "page_count": 154,
+   "cover": "covers/book_265.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.845,
+   "json_file": "book_jsons/book_265.json"
+  },
+  {
+   "id": "book_267",
+   "title": "مثل إيكاروس",
+   "series": "standalone_novels",
+   "page_count": 341,
+   "cover": "covers/book_267.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.814,
+   "json_file": "book_jsons/book_267.json"
+  },
+  {
+   "id": "book_268",
+   "title": "محامي الشوارع",
+   "series": "standalone_novels",
+   "page_count": 189,
+   "cover": "covers/book_268.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_268.json"
+  },
+  {
+   "id": "book_271",
+   "title": "مصر والجزائر.. أربعة - صفر",
+   "series": "standalone_novels",
+   "page_count": 9,
+   "cover": "covers/book_271.webp",
+   "content_mode": "image",
+   "quality_score": 0.438,
+   "json_file": "book_jsons/book_271.json"
+  },
+  {
+   "id": "book_282",
+   "title": "هؤلاء النصابون الكبار وابتكاراتهم العبقرية",
+   "series": "standalone_novels",
+   "page_count": 30,
+   "cover": "covers/book_282.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.793,
+   "json_file": "book_jsons/book_282.json"
+  },
+  {
+   "id": "book_292",
+   "title": "يوتوبيا",
+   "series": "standalone_novels",
+   "page_count": 193,
+   "cover": "covers/book_292.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.802,
+   "json_file": "book_jsons/book_292.json"
+  },
+  {
+   "id": "book_004",
+   "title": "1984 - الجزء الأول",
+   "series": "translations",
+   "page_count": 109,
+   "cover": "covers/book_004.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.855,
+   "json_file": "book_jsons/book_004.json"
+  },
+  {
+   "id": "book_005",
+   "title": "1984 - الجزء الثاني",
+   "series": "translations",
+   "page_count": 109,
+   "cover": "covers/book_005.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_005.json"
+  },
+  {
+   "id": "book_006",
+   "title": "30",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_006.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.795,
+   "json_file": "book_jsons/book_006.json"
+  },
+  {
+   "id": "book_007",
+   "title": "36",
+   "series": "translations",
+   "page_count": 189,
+   "cover": "covers/book_007.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.872,
+   "json_file": "book_jsons/book_007.json"
+  },
+  {
+   "id": "book_008",
+   "title": "451 فهرنهايت",
+   "series": "translations",
+   "page_count": 137,
+   "cover": "covers/book_008.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_008.json"
+  },
+  {
+   "id": "book_013",
+   "title": "P.C.R",
+   "series": "translations",
+   "page_count": 143,
+   "cover": "covers/book_013.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.846,
+   "json_file": "book_jsons/book_013.json"
+  },
+  {
+   "id": "book_014",
+   "title": "أحدهم هرب",
+   "series": "translations",
+   "page_count": 139,
+   "cover": "covers/book_014.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.797,
+   "json_file": "book_jsons/book_014.json"
+  },
+  {
+   "id": "book_015",
+   "title": "أحزان الشيطان",
+   "series": "translations",
+   "page_count": 155,
+   "cover": "covers/book_015.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.876,
+   "json_file": "book_jsons/book_015.json"
+  },
+  {
+   "id": "book_095",
+   "title": "أغاني المهد",
+   "series": "translations",
+   "page_count": 206,
+   "cover": "covers/book_095.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.834,
+   "json_file": "book_jsons/book_095.json"
+  },
+  {
+   "id": "book_096",
+   "title": "أفضل قصص الأشباح",
+   "series": "translations",
+   "page_count": 125,
+   "cover": "covers/book_096.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.86,
+   "json_file": "book_jsons/book_096.json"
+  },
+  {
+   "id": "book_100",
+   "title": "ألف ليلة وليلة الجديدة",
+   "series": "translations",
+   "page_count": 154,
+   "cover": "covers/book_100.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.838,
+   "json_file": "book_jsons/book_100.json"
+  },
+  {
+   "id": "book_101",
+   "title": "أليس في بلاد العجائب",
+   "series": "translations",
+   "page_count": 141,
+   "cover": "covers/book_101.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_101.json"
+  },
+  {
+   "id": "book_102",
+   "title": "أمريكي في بلاط الملك",
+   "series": "translations",
+   "page_count": 123,
+   "cover": "covers/book_102.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_102.json"
+  },
+  {
+   "id": "book_103",
+   "title": "أوديسا الفضاء",
+   "series": "translations",
+   "page_count": 169,
+   "cover": "covers/book_103.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_103.json"
+  },
+  {
+   "id": "book_118",
+   "title": "الأعماق",
+   "series": "translations",
+   "page_count": 136,
+   "cover": "covers/book_118.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.831,
+   "json_file": "book_jsons/book_118.json"
+  },
+  {
+   "id": "book_119",
+   "title": "الأفق المفقود",
+   "series": "translations",
+   "page_count": 155,
+   "cover": "covers/book_119.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.875,
+   "json_file": "book_jsons/book_119.json"
+  },
+  {
+   "id": "book_124",
+   "title": "الجزيرة",
+   "series": "translations",
+   "page_count": 158,
+   "cover": "covers/book_124.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_124.json"
+  },
+  {
+   "id": "book_123",
+   "title": "الجزيرة الغامضة",
+   "series": "translations",
+   "page_count": 155,
+   "cover": "covers/book_123.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.845,
+   "json_file": "book_jsons/book_123.json"
+  },
+  {
+   "id": "book_129",
+   "title": "الحزاز",
+   "series": "translations",
+   "page_count": 126,
+   "cover": "covers/book_129.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.848,
+   "json_file": "book_jsons/book_129.json"
+  },
+  {
+   "id": "book_132",
+   "title": "الرجل الخفي",
+   "series": "translations",
+   "page_count": 156,
+   "cover": "covers/book_132.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.869,
+   "json_file": "book_jsons/book_132.json"
+  },
+  {
+   "id": "book_133",
+   "title": "الرجل الذي كان الخميس",
+   "series": "translations",
+   "page_count": 126,
+   "cover": "covers/book_133.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.847,
+   "json_file": "book_jsons/book_133.json"
+  },
+  {
+   "id": "book_137",
+   "title": "الستار",
+   "series": "translations",
+   "page_count": 155,
+   "cover": "covers/book_137.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.872,
+   "json_file": "book_jsons/book_137.json"
+  },
+  {
+   "id": "book_139",
+   "title": "السنجة",
+   "series": "translations",
+   "page_count": 266,
+   "cover": "covers/book_139.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.81,
+   "json_file": "book_jsons/book_139.json"
+  },
+  {
+   "id": "book_140",
+   "title": "الشيطانة",
+   "series": "translations",
+   "page_count": 142,
+   "cover": "covers/book_140.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.83,
+   "json_file": "book_jsons/book_140.json"
+  },
+  {
+   "id": "book_144",
+   "title": "العالم المفقود",
+   "series": "translations",
+   "page_count": 126,
+   "cover": "covers/book_144.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.789,
+   "json_file": "book_jsons/book_144.json"
+  },
+  {
+   "id": "book_145",
+   "title": "العد الأخير",
+   "series": "translations",
+   "page_count": 71,
+   "cover": "covers/book_145.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_145.json"
+  },
+  {
+   "id": "book_146",
+   "title": "العميل",
+   "series": "translations",
+   "page_count": 235,
+   "cover": "covers/book_146.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.834,
+   "json_file": "book_jsons/book_146.json"
+  },
+  {
+   "id": "book_147",
+   "title": "الغرفة الحمراء",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_147.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.819,
+   "json_file": "book_jsons/book_147.json"
+  },
+  {
+   "id": "book_148",
+   "title": "الغريم الخفي",
+   "series": "translations",
+   "page_count": 173,
+   "cover": "covers/book_148.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.85,
+   "json_file": "book_jsons/book_148.json"
+  },
+  {
+   "id": "book_149",
+   "title": "الغيبوبة",
+   "series": "translations",
+   "page_count": 165,
+   "cover": "covers/book_149.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.832,
+   "json_file": "book_jsons/book_149.json"
+  },
+  {
+   "id": "book_151",
+   "title": "القتل بدون مقدم أتعاب",
+   "series": "translations",
+   "page_count": 109,
+   "cover": "covers/book_151.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.822,
+   "json_file": "book_jsons/book_151.json"
+  },
+  {
+   "id": "book_156",
+   "title": "المتلصص",
+   "series": "translations",
+   "page_count": 106,
+   "cover": "covers/book_156.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.827,
+   "json_file": "book_jsons/book_156.json"
+  },
+  {
+   "id": "book_161",
+   "title": "النطاق المسموم",
+   "series": "translations",
+   "page_count": 124,
+   "cover": "covers/book_161.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.84,
+   "json_file": "book_jsons/book_161.json"
+  },
+  {
+   "id": "book_169",
+   "title": "تايبى",
+   "series": "translations",
+   "page_count": 141,
+   "cover": "covers/book_169.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.885,
+   "json_file": "book_jsons/book_169.json"
+  },
+  {
+   "id": "book_176",
+   "title": "تويتات من العصور الوسطى",
+   "series": "translations",
+   "page_count": 138,
+   "cover": "covers/book_176.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.747,
+   "json_file": "book_jsons/book_176.json"
+  },
+  {
+   "id": "book_177",
+   "title": "جزيرة الدكتور مورو",
+   "series": "translations",
+   "page_count": 142,
+   "cover": "covers/book_177.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_177.json"
+  },
+  {
+   "id": "book_180",
+   "title": "حكايات أوسكار وايلد",
+   "series": "translations",
+   "page_count": 157,
+   "cover": "covers/book_180.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_180.json"
+  },
+  {
+   "id": "book_182",
+   "title": "حكايات اندرسن",
+   "series": "translations",
+   "page_count": 140,
+   "cover": "covers/book_182.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.875,
+   "json_file": "book_jsons/book_182.json"
+  },
+  {
+   "id": "book_183",
+   "title": "حكايات مارك توين",
+   "series": "translations",
+   "page_count": 154,
+   "cover": "covers/book_183.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.843,
+   "json_file": "book_jsons/book_183.json"
+  },
+  {
+   "id": "book_189",
+   "title": "خلف جدار النوم",
+   "series": "translations",
+   "page_count": 158,
+   "cover": "covers/book_189.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.823,
+   "json_file": "book_jsons/book_189.json"
+  },
+  {
+   "id": "book_194",
+   "title": "دكتور جيكل ومستر هايد",
+   "series": "translations",
+   "page_count": 141,
+   "cover": "covers/book_194.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.838,
+   "json_file": "book_jsons/book_194.json"
+  },
+  {
+   "id": "book_197",
+   "title": "دورة المذءوب",
+   "series": "translations",
+   "page_count": 123,
+   "cover": "covers/book_197.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_197.json"
+  },
+  {
+   "id": "book_198",
+   "title": "دوريان جراى",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_198.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.822,
+   "json_file": "book_jsons/book_198.json"
+  },
+  {
+   "id": "book_203",
+   "title": "رحيق الملكات",
+   "series": "translations",
+   "page_count": 156,
+   "cover": "covers/book_203.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.829,
+   "json_file": "book_jsons/book_203.json"
+  },
+  {
+   "id": "book_207",
+   "title": "ساحر أوز",
+   "series": "translations",
+   "page_count": 157,
+   "cover": "covers/book_207.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.882,
+   "json_file": "book_jsons/book_207.json"
+  },
+  {
+   "id": "book_208",
+   "title": "سباق الموت",
+   "series": "translations",
+   "page_count": 186,
+   "cover": "covers/book_208.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.828,
+   "json_file": "book_jsons/book_208.json"
+  },
+  {
+   "id": "book_209",
+   "title": "سبعة مفاتيح لبالدبيت",
+   "series": "translations",
+   "page_count": 125,
+   "cover": "covers/book_209.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.871,
+   "json_file": "book_jsons/book_209.json"
+  },
+  {
+   "id": "book_210",
+   "title": "سلالة أندروميدا",
+   "series": "translations",
+   "page_count": 155,
+   "cover": "covers/book_210.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.795,
+   "json_file": "book_jsons/book_210.json"
+  },
+  {
+   "id": "book_215",
+   "title": "صانع الأمطار",
+   "series": "translations",
+   "page_count": 202,
+   "cover": "covers/book_215.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_215.json"
+  },
+  {
+   "id": "book_223",
+   "title": "عرين الدودة البيضاء",
+   "series": "translations",
+   "page_count": 170,
+   "cover": "covers/book_223.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.859,
+   "json_file": "book_jsons/book_223.json"
+  },
+  {
+   "id": "book_231",
+   "title": "غريب في أرض غريبة - الجزء الأول",
+   "series": "translations",
+   "page_count": 126,
+   "cover": "covers/book_231.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.855,
+   "json_file": "book_jsons/book_231.json"
+  },
+  {
+   "id": "book_237",
+   "title": "في كهوف دراجوسان",
+   "series": "translations",
+   "page_count": 269,
+   "cover": "covers/book_237.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.859,
+   "json_file": "book_jsons/book_237.json"
+  },
+  {
+   "id": "book_239",
+   "title": "قاعة المرايا",
+   "series": "translations",
+   "page_count": 124,
+   "cover": "covers/book_239.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.861,
+   "json_file": "book_jsons/book_239.json"
+  },
+  {
+   "id": "book_240",
+   "title": "قبضة الشيطان الذهبية",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_240.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.832,
+   "json_file": "book_jsons/book_240.json"
+  },
+  {
+   "id": "book_248",
+   "title": "قضية الذئب",
+   "series": "translations",
+   "page_count": 142,
+   "cover": "covers/book_248.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.837,
+   "json_file": "book_jsons/book_248.json"
+  },
+  {
+   "id": "book_249",
+   "title": "قطار الجحيم",
+   "series": "translations",
+   "page_count": 156,
+   "cover": "covers/book_249.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.863,
+   "json_file": "book_jsons/book_249.json"
+  },
+  {
+   "id": "book_250",
+   "title": "قلب الظلام",
+   "series": "translations",
+   "page_count": 138,
+   "cover": "covers/book_250.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.827,
+   "json_file": "book_jsons/book_250.json"
+  },
+  {
+   "id": "book_251",
+   "title": "قلعة الأسرار",
+   "series": "translations",
+   "page_count": 107,
+   "cover": "covers/book_251.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.867,
+   "json_file": "book_jsons/book_251.json"
+  },
+  {
+   "id": "book_253",
+   "title": "كارميلا",
+   "series": "translations",
+   "page_count": 125,
+   "cover": "covers/book_253.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.858,
+   "json_file": "book_jsons/book_253.json"
+  },
+  {
+   "id": "book_254",
+   "title": "كتب الدم",
+   "series": "translations",
+   "page_count": 154,
+   "cover": "covers/book_254.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.832,
+   "json_file": "book_jsons/book_254.json"
+  },
+  {
+   "id": "book_255",
+   "title": "كلب آل باسكرفيل",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_255.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.817,
+   "json_file": "book_jsons/book_255.json"
+  },
+  {
+   "id": "book_257",
+   "title": "كونغو",
+   "series": "translations",
+   "page_count": 191,
+   "cover": "covers/book_257.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.822,
+   "json_file": "book_jsons/book_257.json"
+  },
+  {
+   "id": "book_259",
+   "title": "لا تنظري الآن",
+   "series": "translations",
+   "page_count": 154,
+   "cover": "covers/book_259.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.837,
+   "json_file": "book_jsons/book_259.json"
+  },
+  {
+   "id": "book_260",
+   "title": "لقاءات من النوع الثالث",
+   "series": "translations",
+   "page_count": 147,
+   "cover": "covers/book_260.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.842,
+   "json_file": "book_jsons/book_260.json"
+  },
+  {
+   "id": "book_262",
+   "title": "لورد جيم",
+   "series": "translations",
+   "page_count": 140,
+   "cover": "covers/book_262.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.879,
+   "json_file": "book_jsons/book_262.json"
+  },
+  {
+   "id": "book_266",
+   "title": "ماتيلدا",
+   "series": "translations",
+   "page_count": 141,
+   "cover": "covers/book_266.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.867,
+   "json_file": "book_jsons/book_266.json"
+  },
+  {
+   "id": "book_269",
+   "title": "مدينة مثل أليس",
+   "series": "translations",
+   "page_count": 122,
+   "cover": "covers/book_269.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.833,
+   "json_file": "book_jsons/book_269.json"
+  },
+  {
+   "id": "book_272",
+   "title": "مطار 77",
+   "series": "translations",
+   "page_count": 123,
+   "cover": "covers/book_272.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.836,
+   "json_file": "book_jsons/book_272.json"
+  },
+  {
+   "id": "book_273",
+   "title": "مغامرات أرسين لوبين",
+   "series": "translations",
+   "page_count": 141,
+   "cover": "covers/book_273.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.872,
+   "json_file": "book_jsons/book_273.json"
+  },
+  {
+   "id": "book_279",
+   "title": "موبي ديك",
+   "series": "translations",
+   "page_count": 185,
+   "cover": "covers/book_279.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.859,
+   "json_file": "book_jsons/book_279.json"
+  },
+  {
+   "id": "book_281",
+   "title": "نداء كتولو",
+   "series": "translations",
+   "page_count": 125,
+   "cover": "covers/book_281.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.84,
+   "json_file": "book_jsons/book_281.json"
+  },
+  {
+   "id": "book_285",
+   "title": "وادي العناكب",
+   "series": "translations",
+   "page_count": 127,
+   "cover": "covers/book_285.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.818,
+   "json_file": "book_jsons/book_285.json"
+  },
+  {
+   "id": "book_286",
+   "title": "وجاء العنكبوت",
+   "series": "translations",
+   "page_count": 118,
+   "cover": "covers/book_286.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.835,
+   "json_file": "book_jsons/book_286.json"
+  },
+  {
+   "id": "book_289",
+   "title": "وصية الثلاثين ألف دولار",
+   "series": "translations",
+   "page_count": 140,
+   "cover": "covers/book_289.webp",
+   "content_mode": "hybrid",
+   "quality_score": 0.839,
+   "json_file": "book_jsons/book_289.json"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+# ── Flutter / Dart ───────────────────────────────────────────────
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ── Android ──────────────────────────────────────────────────────
+android/.gradle/
+android/local.properties
+android/app/.cxx/
+android/app/release/
+*.jks
+*.keystore
+key.properties
+
+# ── المخرجات والملفات المؤقتة ────────────────────────────────────
+*.apk
+*.aab
+*.log
+*.sha1
+processing_report.json
+
+# ── المكتبة الثنائية (ناتج خط المعالجة، لا المصدر) ───────────────
+# تُولَّد بـ scripts/build_page_library.py و scripts/ocr_book.py
+assets/books/*
+assets/covers/*
+assets/book_jsons/*
+assets/ocr/*
+!assets/books/.gitkeep
+!assets/covers/.gitkeep
+!assets/book_jsons/.gitkeep
+!assets/ocr/.gitkeep
+
+# ── لقطات ومراجع محلية ──────────────────────────────────────────
+v_*.png
+screenshot*.png
+test_screenshots/
+tools/
+assets_v3_backup/
+
+# ── Python ───────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── أدوات وبيئة ─────────────────────────────────────────────────
+.workbuddy-ai/
+.vscode/
+.DS_Store
+Thumbs.db
